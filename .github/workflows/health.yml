@@ -1,0 +1,27 @@
+name: Publication health
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '47 21 * * *'
+permissions:
+  contents: read
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - run: python3 -m unittest discover -s tests -v
+      - name: Check completed days and index
+        run: |
+          set -eu
+          cutoff=$(TZ=Asia/Kolkata date -d yesterday +%F)
+          for track in A B; do
+            pending=$(python3 factory.py plan "$track" "$cutoff")
+            if [ -n "$pending" ]; then
+              echo "$pending"
+              exit 1
+            fi
+          done
+          python3 factory.py index | diff - PROJECT_INDEX.md

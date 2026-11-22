@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-22",
+  "track": "B",
+  "category": "ERP accounts payable",
+  "name": "ap-due-buckets",
+  "url": "https://github.com/thelkotolsantosh/ap-due-buckets",
+  "language": "Python",
+  "stack": "Python and SQLite",
+  "build": "compileall passed",
+  "tests": "3 passed locally",
+  "publication": "verified",
+  "commit": "e5c9657bfd8d0a7953bb4c4c189710b525bdcf1a"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-22",
+  "track": "A",
+  "category": "retrieval evaluation",
+  "name": "retrieval-rank-audit",
+  "url": "https://github.com/thelkotolsantosh/retrieval-rank-audit",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "3 passed locally",
+  "publication": "verified",
+  "commit": "00c1b8bfbb0db103470288b85b94bde94b678acf"
+}
