@@ -1,1 +1,6 @@
-{"name":"threshold-cost-sweep","purpose":"Choose a binary classifier cutoff from validation scores and error costs","status":"reserved"}
+{
+  "name": "threshold-cost-sweep",
+  "purpose": "Choose a binary classifier cutoff from validation scores and error costs",
+  "status": "verified",
+  "commit": "65a7067547d2cc8d89cfc6bbf6b1ec20a3a7f361"
+}
