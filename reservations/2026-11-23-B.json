@@ -1,1 +1,6 @@
-{"name":"csv-header-contract","purpose":"Check incoming CSV headers against a versioned contract","status":"reserved"}
+{
+  "name": "csv-header-contract",
+  "purpose": "Check incoming CSV headers against a versioned contract",
+  "status": "verified",
+  "commit": "1472a8704971dd0c19dc5fa0dfc66cf3f7ba9b78"
+}

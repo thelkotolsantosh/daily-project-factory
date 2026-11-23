@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-23",
+  "track": "B",
+  "category": "developer utility",
+  "name": "csv-header-contract",
+  "url": "https://github.com/thelkotolsantosh/csv-header-contract",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "3 passed locally",
+  "publication": "verified",
+  "commit": "1472a8704971dd0c19dc5fa0dfc66cf3f7ba9b78"
+}
