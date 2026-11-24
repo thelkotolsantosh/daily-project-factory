@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-24",
+  "track": "B",
+  "category": "ERP procurement",
+  "name": "purchase-receipt-balances",
+  "url": "https://github.com/thelkotolsantosh/purchase-receipt-balances",
+  "language": "Python",
+  "stack": "Python and SQLite",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "942b6b6fd48676449ef7dea624b738cb51c612f0"
+}

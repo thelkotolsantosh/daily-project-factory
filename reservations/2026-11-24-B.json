@@ -1,1 +1,6 @@
-{"name":"purchase-receipt-balances","purpose":"Reconcile ordered and received units per purchase line","status":"reserved"}
+{
+  "name": "purchase-receipt-balances",
+  "purpose": "Reconcile ordered and received units per purchase line",
+  "status": "verified",
+  "commit": "942b6b6fd48676449ef7dea624b738cb51c612f0"
+}
