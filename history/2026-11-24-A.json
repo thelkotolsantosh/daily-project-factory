@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-24",
+  "track": "A",
+  "category": "NLP",
+  "name": "transcript-word-audit",
+  "url": "https://github.com/thelkotolsantosh/transcript-word-audit",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "2069c52bb7713dc47a7d1238ae31f0584bc02bd6"
+}

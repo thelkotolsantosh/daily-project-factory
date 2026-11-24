@@ -1,1 +1,6 @@
-{"name":"transcript-word-audit","purpose":"Evaluate paired transcripts with corpus word error rate","status":"reserved"}
+{
+  "name": "transcript-word-audit",
+  "purpose": "Evaluate paired transcripts with corpus word error rate",
+  "status": "verified",
+  "commit": "2069c52bb7713dc47a7d1238ae31f0584bc02bd6"
+}
