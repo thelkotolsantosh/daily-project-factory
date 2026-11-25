@@ -8,3 +8,4 @@
 | 2026-11-23 | B | developer utility | [csv-header-contract](https://github.com/thelkotolsantosh/csv-header-contract) | Python | Python standard library | compileall passed | 3 passed locally | verified |
 | 2026-11-24 | A | NLP | [transcript-word-audit](https://github.com/thelkotolsantosh/transcript-word-audit) | Python | Python standard library | compileall passed | 4 passed locally | verified |
 | 2026-11-24 | B | ERP procurement | [purchase-receipt-balances](https://github.com/thelkotolsantosh/purchase-receipt-balances) | Python | Python and SQLite | compileall passed | 4 passed locally | verified |
+| 2026-11-25 | A | computer vision | [mask-overlap-audit](https://github.com/thelkotolsantosh/mask-overlap-audit) | Python | Python standard library | compileall passed | 4 passed locally | verified |

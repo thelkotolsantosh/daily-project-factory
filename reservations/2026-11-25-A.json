@@ -1,6 +1,7 @@
 {
   "name": "mask-overlap-audit",
   "purpose": "Measure class overlap in aligned segmentation label grids",
-  "status": "reserved",
-  "initial_commit": "dd0e9d203bf80bb2bf6208a67ab228d39b46f73e"
+  "status": "verified",
+  "initial_commit": "dd0e9d203bf80bb2bf6208a67ab228d39b46f73e",
+  "commit": "8790342cc3ac8086288dc01082e8797e79f3783f"
 }

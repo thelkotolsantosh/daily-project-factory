@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-25",
+  "track": "A",
+  "category": "computer vision",
+  "name": "mask-overlap-audit",
+  "url": "https://github.com/thelkotolsantosh/mask-overlap-audit",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "8790342cc3ac8086288dc01082e8797e79f3783f"
+}
