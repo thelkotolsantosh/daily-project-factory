@@ -1,0 +1,5 @@
+{
+  "name": "mask-overlap-audit",
+  "purpose": "Measure class overlap in aligned segmentation label grids",
+  "status": "reserved"
+}
