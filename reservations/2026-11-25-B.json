@@ -1,5 +1,6 @@
 {
   "name": "room-booking-conflicts",
   "purpose": "Identify overlapping meeting room reservations in a daily schedule",
-  "status": "reserved"
+  "status": "reserved",
+  "initial_commit": "83ccb3a869cc1ba784f41e3401057db18baf487e"
 }
