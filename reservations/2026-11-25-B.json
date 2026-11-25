@@ -1,0 +1,5 @@
+{
+  "name": "room-booking-conflicts",
+  "purpose": "Identify overlapping meeting room reservations in a daily schedule",
+  "status": "reserved"
+}
