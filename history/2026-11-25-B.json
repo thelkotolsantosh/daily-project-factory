@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-25",
+  "track": "B",
+  "category": "business application",
+  "name": "room-booking-conflicts",
+  "url": "https://github.com/thelkotolsantosh/room-booking-conflicts",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "9e7675f04df08c463afe40c840398b725de431c7"
+}
