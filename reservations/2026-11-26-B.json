@@ -1,5 +1,6 @@
 {
   "name": "cycle-count-variance",
   "purpose": "Reconcile bin-level book quantities and physical count sheets, preserving uncounted bins",
-  "status": "reserved"
+  "status": "reserved",
+  "initial_commit": "113288e3f6090f8cdfa7a3657542737896aa89b8"
 }
