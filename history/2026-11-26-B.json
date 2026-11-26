@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-26",
+  "track": "B",
+  "category": "ERP inventory",
+  "name": "cycle-count-variance",
+  "url": "https://github.com/thelkotolsantosh/cycle-count-variance",
+  "language": "Python",
+  "stack": "Python and SQLite",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "2eaf5a9d8c95c59902bfb451cadbbf3983fd2e2c"
+}
