@@ -1,6 +1,7 @@
 {
   "name": "ctc-frame-decoder",
   "purpose": "Decode frame logits and trace token spans for CTC recognition models",
-  "status": "reserved",
-  "initial_commit": "41f21399a6983e8cd085fa6ace3684202380959e"
+  "status": "verified",
+  "initial_commit": "41f21399a6983e8cd085fa6ace3684202380959e",
+  "commit": "a4a5c253b827b98961390216e66cd6bb8c0915bf"
 }

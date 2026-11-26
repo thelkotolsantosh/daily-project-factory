@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-26",
+  "track": "A",
+  "category": "deep learning",
+  "name": "ctc-frame-decoder",
+  "url": "https://github.com/thelkotolsantosh/ctc-frame-decoder",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "a4a5c253b827b98961390216e66cd6bb8c0915bf"
+}
