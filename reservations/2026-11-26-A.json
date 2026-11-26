@@ -1,0 +1,5 @@
+{
+  "name": "ctc-frame-decoder",
+  "purpose": "Decode frame logits and trace token spans for CTC recognition models",
+  "status": "reserved"
+}
