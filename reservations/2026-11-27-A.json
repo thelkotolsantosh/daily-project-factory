@@ -1,0 +1,5 @@
+{
+  "name": "dataset-split-overlap",
+  "purpose": "Audit entity overlap between dataset partitions before model evaluation",
+  "status": "reserved"
+}
