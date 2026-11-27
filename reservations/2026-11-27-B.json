@@ -1,5 +1,6 @@
 {
   "name": "queue-backlog-snapshot",
   "purpose": "Reconstruct open service tickets by queue and age at a historical cutoff",
-  "status": "reserved"
+  "status": "created",
+  "initial_commit": "b351e9686018158be76a7e50f03d754bd4f13f5e"
 }
