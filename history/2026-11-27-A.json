@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-27",
+  "track": "A",
+  "category": "Python automation",
+  "name": "dataset-split-overlap",
+  "url": "https://github.com/thelkotolsantosh/dataset-split-overlap",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "c0e5e0cfe5b6f973e5a1fb4c0d9f85aa2112fe8b"
+}

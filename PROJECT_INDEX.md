@@ -12,3 +12,4 @@
 | 2026-11-25 | B | business application | [room-booking-conflicts](https://github.com/thelkotolsantosh/room-booking-conflicts) | Python | Python standard library | compileall passed | 4 passed locally | verified |
 | 2026-11-26 | A | deep learning | [ctc-frame-decoder](https://github.com/thelkotolsantosh/ctc-frame-decoder) | Python | Python standard library | compileall passed | 4 passed locally | verified |
 | 2026-11-26 | B | ERP inventory | [cycle-count-variance](https://github.com/thelkotolsantosh/cycle-count-variance) | Python | Python and SQLite | compileall passed | 4 passed locally | verified |
+| 2026-11-27 | A | Python automation | [dataset-split-overlap](https://github.com/thelkotolsantosh/dataset-split-overlap) | Python | Python standard library | compileall passed | 4 passed locally | verified |

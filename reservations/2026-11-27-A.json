@@ -1,6 +1,7 @@
 {
   "name": "dataset-split-overlap",
   "purpose": "Audit entity overlap between dataset partitions before model evaluation",
-  "status": "reserved",
-  "initial_commit": "6d0cdf16d5e50afdb9d028a05088dc66ba193529"
+  "status": "verified",
+  "initial_commit": "6d0cdf16d5e50afdb9d028a05088dc66ba193529",
+  "commit": "c0e5e0cfe5b6f973e5a1fb4c0d9f85aa2112fe8b"
 }
