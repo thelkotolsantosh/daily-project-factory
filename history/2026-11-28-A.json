@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-28",
+  "track": "A",
+  "category": "model deployment",
+  "name": "inference-latency-gate",
+  "url": "https://github.com/thelkotolsantosh/inference-latency-gate",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "5d8bbddef96f074434000e13c7bb1a541d7887ba"
+}

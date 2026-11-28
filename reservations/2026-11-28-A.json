@@ -1,6 +1,7 @@
 {
   "name": "inference-latency-gate",
   "purpose": "Evaluate model inference latency budgets by request class from benchmark samples",
-  "status": "created",
-  "initial_commit": "0d67fe34cebfb9bd8bb746fb351bc8bcbe682441"
+  "status": "verified",
+  "initial_commit": "0d67fe34cebfb9bd8bb746fb351bc8bcbe682441",
+  "commit": "5d8bbddef96f074434000e13c7bb1a541d7887ba"
 }
