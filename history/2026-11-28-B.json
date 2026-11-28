@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-28",
+  "track": "B",
+  "category": "ERP general ledger",
+  "name": "journal-balance-check",
+  "url": "https://github.com/thelkotolsantosh/journal-balance-check",
+  "language": "Python",
+  "stack": "Python standard library",
+  "build": "compileall passed",
+  "tests": "4 passed locally",
+  "publication": "verified",
+  "commit": "26815130932acd8b075897d472d8dbb08b956733"
+}

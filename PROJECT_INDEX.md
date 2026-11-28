@@ -15,3 +15,4 @@
 | 2026-11-27 | A | Python automation | [dataset-split-overlap](https://github.com/thelkotolsantosh/dataset-split-overlap) | Python | Python standard library | compileall passed | 4 passed locally | verified |
 | 2026-11-27 | B | database reporting | [queue-backlog-snapshot](https://github.com/thelkotolsantosh/queue-backlog-snapshot) | Python | Python and SQLite | compileall passed | 5 passed locally | verified |
 | 2026-11-28 | A | model deployment | [inference-latency-gate](https://github.com/thelkotolsantosh/inference-latency-gate) | Python | Python standard library | compileall passed | 4 passed locally | verified |
+| 2026-11-28 | B | ERP general ledger | [journal-balance-check](https://github.com/thelkotolsantosh/journal-balance-check) | Python | Python standard library | compileall passed | 4 passed locally | verified |

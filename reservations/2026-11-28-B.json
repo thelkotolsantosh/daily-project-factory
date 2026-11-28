@@ -1,6 +1,7 @@
 {
   "name": "journal-balance-check",
   "purpose": "Check debit and credit totals per journal in a single-currency ledger export",
-  "status": "created",
-  "initial_commit": "f9d016934b9f521b1e2f7a205c7c7034fe6decf6"
+  "status": "verified",
+  "initial_commit": "f9d016934b9f521b1e2f7a205c7c7034fe6decf6",
+  "commit": "26815130932acd8b075897d472d8dbb08b956733"
 }
