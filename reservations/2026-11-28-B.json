@@ -1,0 +1,5 @@
+{
+  "name": "journal-balance-check",
+  "purpose": "Check debit and credit totals per journal in a single-currency ledger export",
+  "status": "reserved"
+}
