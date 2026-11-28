@@ -1,0 +1,5 @@
+{
+  "name": "inference-latency-gate",
+  "purpose": "Evaluate model inference latency budgets by request class from benchmark samples",
+  "status": "reserved"
+}
